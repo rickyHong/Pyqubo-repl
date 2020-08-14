@@ -16,6 +16,8 @@
 PyQUBO
 ======
 
+Wow : https://www.researchgate.net/publication/343498508_QUBO_Formulations_for_Training_Machine_Learning_Models
+
 (Notice)
 
 (contents) (1. Integer_partition, 2.Graph-Coloring, 3.Graph-partition, 5.TSP (location), 6.TSP (Latitude and longitude))
