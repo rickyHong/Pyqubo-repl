@@ -15,6 +15,7 @@
 
 PyQUBO
 ======
+https://journals.jps.jp/doi/full/10.7566/JPSJ.88.061010
 
 PyQUBO allows you to create QUBOs or Ising models from flexible mathematical expressions easily.
 Some of the features of PyQUBO are
