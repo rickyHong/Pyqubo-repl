@@ -18,14 +18,12 @@ PyQUBO
 
 (Notice)
 (contents) (1. Integer_partition, 2.Graph-Coloring, 3.Graph-partition, 5.TSP (location), 6.TSP (Latitude and longitude))
-
-(papaer) https://journals.jps.jp/doi/full/10.7566/JPSJ.88.061010 
+(papaer) https://journals.jps.jp/doi/full/10.7566/JPSJ.88.061010
 (notebook or code) https://github.com/recruit-communications/pyqubo/tree/master/notebooks
 (code) (cvrp) https://github.com/rickyHong/Dwave-cvrp-repl
 
 (contents, code) (4.Multimodal Container Planning)
 (paper) https://arxiv.org/abs/2007.01730 
-
 
 PyQUBO allows you to create QUBOs or Ising models from flexible mathematical expressions easily.
 Some of the features of PyQUBO are
