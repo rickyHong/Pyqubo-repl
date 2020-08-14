@@ -18,6 +18,7 @@ PyQUBO
 
 (Notice)
 (contents) (1. Integer_partition, 2.Graph-Coloring, 3.Graph-partition, 5.TSP (location), 6.TSP (Latitude and longitude))
+
 (papaer) https://journals.jps.jp/doi/full/10.7566/JPSJ.88.061010 
 (notebook or code) https://github.com/recruit-communications/pyqubo/tree/master/notebooks
 (code) (cvrp) https://github.com/rickyHong/Dwave-cvrp-repl
