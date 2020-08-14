@@ -26,8 +26,10 @@ PyQUBO
 
 (code) (cvrp) https://github.com/rickyHong/Dwave-cvrp-repl
 
+(paper) https://link.springer.com/chapter/10.1007/978-3-030-50433-5_42              
 
-(contents, code) (4.Multimodal Container Planning)
+
+(contents, code) (4.Multimodal Container Planning,)
 
 (paper) https://arxiv.org/abs/2007.01730 
 
