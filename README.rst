@@ -15,8 +15,9 @@
 
 PyQUBO
 ======
-
-Wow : https://www.researchgate.net/publication/343498508_QUBO_Formulations_for_Training_Machine_Learning_Models
+(Papers)
+Portfolio : https://arxiv.org/pdf/2008.08669.pdf (Portfolio Optimization of 60 Stocks Using Classical and Quantum Algorithms)
+SVM : https://www.researchgate.net/publication/343498508_QUBO_Formulations_for_Training_Machine_Learning_Models
 
 (Notice)
 
